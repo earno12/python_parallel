@@ -7,10 +7,12 @@
 
 # 2. Environment Setup
 ## 2.1 Software Requirements
-- VS Code
-- Python 3.8
+- VS Code v1.79.0
+- Anaconda v23.5.0
+- Python v3.11.4
 ## 2.2 Dependencies
-
+- multiprocessing
+- dask.distributed
 # 3. References
 - https://wiki.python.org/moin/ParallelProcessing
 - https://www.sitepoint.com/python-multiprocessing-parallel-programming/
@@ -20,4 +22,3 @@
 - https://www.geeksforgeeks.org/parallel-processing-in-python/
 - https://towardsdatascience.com/parallelization-in-python-the-easy-way-aa03ed04c209
 - https://www.machinelearningplus.com/python/parallel-processing-python/
-- 
